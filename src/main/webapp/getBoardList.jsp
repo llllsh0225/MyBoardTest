@@ -31,7 +31,7 @@
 				<option value="CONTENT">내용</option>
 		</select>
 		<input type="text" name="searchKeyword" />
-		<input type="submmit" value="검색" />
+		<input type="submit" value="검색" />
 	</td>
 </tr>
 </table>
