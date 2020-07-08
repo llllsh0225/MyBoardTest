@@ -1,8 +1,8 @@
-<%@page import="java.util.List"%>
+<%@ page import="java.util.List"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%> 
 <%@page import="tommy.spring.web.board.BoardVO"%>
 <%@page import="tommy.spring.web.board.impl.BoardDAO"%>
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
 <%
 	//1. 사용자의 입력 정보 추출
 	//2. 데이터베이스 연동 처리
