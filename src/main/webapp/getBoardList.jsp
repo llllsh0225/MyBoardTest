@@ -1,4 +1,4 @@
-
+<%@page import="java.util.List"%>
 <%@page import="tommy.spring.web.board.BoardVO"%>
 <%@page import="tommy.spring.web.board.impl.BoardDAO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
@@ -31,7 +31,7 @@
 				<option value="CONTENT">내용</option>
 		</select>
 		<input type="text" name="searchKeyword" />
-		<input type="submmit" value="검색" />
+		<input type="submit" value="검색" />
 	</td>
 </tr>
 </table>
