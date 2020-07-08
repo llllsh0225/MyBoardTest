@@ -1,4 +1,4 @@
-
+<%@page import="java.util.List"%>
 <%@page import="tommy.spring.web.board.BoardVO"%>
 <%@page import="tommy.spring.web.board.impl.BoardDAO"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8"
